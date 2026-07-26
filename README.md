@@ -175,9 +175,9 @@ The complete project report is available in the `Report` folder.
 
 B.Tech – Computer Science Engineering
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/neerajchauhan98
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/neeraj-chauhan-5bb899298/
 
 ---
 
