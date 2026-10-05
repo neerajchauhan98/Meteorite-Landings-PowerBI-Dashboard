@@ -1,10 +1,10 @@
-# ☄️ Meteorite Landings Analysis Dashboard (1900–2020)
+#  Meteorite Landings Analysis Dashboard (1900–2020)
 
 An interactive Power BI dashboard built using the NASA Meteorite Landings dataset to analyze global meteorite distribution, temporal trends, meteorite classification, and mass-based risk assessment through dynamic visualizations and DAX.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project transforms historical meteorite landing data into an interactive analytical dashboard. It helps users explore meteorite occurrences across geography, time, mass categories, and meteorite types using Power BI.
 
@@ -12,7 +12,7 @@ The dashboard is designed to provide meaningful insights through KPIs, maps, cha
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ### Dashboard Page 1
 > *(Add `Images/dashboard_page1.png` here)*
@@ -28,7 +28,7 @@ The dashboard is designed to provide meaningful insights through KPIs, maps, cha
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Analyze global distribution of meteorite landings.
 - Study meteorite trends across different decades.
@@ -39,9 +39,9 @@ The dashboard is designed to provide meaningful insights through KPIs, maps, cha
 
 ---
 
-# 📊 Dashboard Features
+#  Dashboard Features
 
-### 📈 KPI Cards
+###  KPI Cards
 
 - Total Meteorites
 - Verified Meteorites
@@ -51,7 +51,7 @@ The dashboard is designed to provide meaningful insights through KPIs, maps, cha
 
 ---
 
-### 🌍 Interactive Visualizations
+###  Interactive Visualizations
 
 - World Map
 - Meteorite Landing Trend by Decade
@@ -63,7 +63,7 @@ The dashboard is designed to provide meaningful insights through KPIs, maps, cha
 
 ---
 
-# 🧹 Data Preprocessing
+#  Data Preprocessing
 
 The dataset was cleaned and prepared before visualization by:
 
@@ -83,7 +83,7 @@ The dataset was cleaned and prepared before visualization by:
 
 ---
 
-# 📐 DAX Measures
+#  DAX Measures
 
 The dashboard includes custom DAX measures such as:
 
@@ -95,7 +95,7 @@ The dashboard includes custom DAX measures such as:
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Power BI
 - Power Query
@@ -105,7 +105,7 @@ The dashboard includes custom DAX measures such as:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 Meteorite-Landings-PowerBI-Dashboard
@@ -139,7 +139,7 @@ Meteorite-Landings-PowerBI-Dashboard
 
 ---
 
-# 🚀 How to Use
+#  How to Use
 
 1. Clone the repository.
 
@@ -155,7 +155,7 @@ git clone https://github.com/yourusername/Meteorite-Landings-PowerBI-Dashboard.g
 
 ---
 
-# 📁 Dataset
+# Dataset
 
 **Source:** NASA Open Data – Meteorite Landings Dataset
 
@@ -163,13 +163,13 @@ https://www.kaggle.com/datasets/nasa/meteorite-landings
 
 ---
 
-# 📖 Report
+#  Report
 
 The complete project report is available in the `Report` folder.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Neeraj Chauhan**
 
